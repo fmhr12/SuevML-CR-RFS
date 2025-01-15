@@ -1,4 +1,4 @@
-# Survival Analysis with Random Forests and Repeated Cross-Validation
+# Survival Analysis with Competing Risk using Random Forests and Repeated Cross-Validation
 
 ## Overview
 
